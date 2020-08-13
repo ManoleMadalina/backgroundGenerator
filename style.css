@@ -27,3 +27,15 @@ input {
     background-color: rgb(255, 255, 255);
     border:none;
 }
+#random {
+    margin: 15px;
+    padding: 5px 22px;
+    background: linear-gradient(to bottom, white, rgb(231, 229, 229));
+    border: none;
+    letter-spacing: 0.2em;
+    cursor: pointer;
+}
+
+#random:hover {
+    background: linear-gradient(to bottom, rgb(245, 244, 244), rgb(219, 217, 217));
+}
